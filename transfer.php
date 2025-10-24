@@ -1,4 +1,4 @@
- <?php
+no <?php
     include('db_connect.php');
 
     if (isset($_POST['transfer'])) {
@@ -97,4 +97,4 @@
      </div>
  </body>
 
- </html>
+</html>
