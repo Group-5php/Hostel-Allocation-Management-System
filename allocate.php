@@ -84,6 +84,7 @@ if (isset($_POST['allocate'])) {
                 }
                 ?>
             </select>
+        
 
             <button type="submit" name="allocate">Allocate</button>
         </form>
